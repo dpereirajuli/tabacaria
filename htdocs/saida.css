@@ -1,0 +1,45 @@
+.form-botao {
+    display: inline-block;
+}
+
+#btn_add_iten{
+    float: right;
+}
+
+.div-tabela{
+    margin-top: 1%;
+    height: 70vh;
+    width: 100%;
+    overflow-y: auto;
+}
+
+thead{
+    position: sticky;
+    top: -1px;
+    z-index: 5;
+    background-color: black;
+    color: white;
+}
+
+
+.em_linha{
+    display: flex;
+    justify-content: space-around;
+}
+
+.menu_itens{
+    display: flex;
+    width: 100%;
+}
+
+.tabela_info{
+    width: 09%;
+    margin-left: 70%;
+    text-align: center;
+}
+
+.btn_iten{
+    float: right;
+    margin-left: 1%;
+    margin-top: 1%;
+}

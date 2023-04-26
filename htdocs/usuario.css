@@ -1,0 +1,12 @@
+.form-botao {
+    display: inline-block;
+}
+
+.tabela-produto{
+    margin-top: 1%;
+}
+
+.pesquisa{
+    width: 30%;
+    float: right;
+}
