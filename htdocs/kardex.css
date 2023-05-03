@@ -1,0 +1,18 @@
+
+.form-kardex{
+    display: flex;
+}
+
+.form-kardex .col{
+    margin-left: 10px;
+}
+
+.col{
+    display: inline;
+}
+
+
+.informacao-kardex{
+    display: flex;
+    justify-content: space-between;
+}

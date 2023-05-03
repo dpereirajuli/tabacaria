@@ -1,0 +1,68 @@
+.menu-cadastro{
+    display: flex;
+    margin-top: 2%;
+}
+
+.div-venda{
+    width: 30%;
+}
+
+.div-resulmo{
+    border-left: 2px solid black; 
+    padding-left: 10px;
+    margin-top: 2%;
+    height: 80vh;
+}
+
+.div-tabela{
+    height: 85%;
+    overflow-x: hidden;
+}
+
+.tabela-resulmo{
+    width: 90%;
+    margin: auto;
+    margin-top: 5%;
+    text-align: center;
+    font-weight: bold;
+    background-color: rgba(179, 179, 179, 0.42);
+    font-size: 0.9rem;
+    border: 1px black;
+    border: 1px dotted #a3a3a3;
+    padding: 10px;
+ }
+
+
+ table thead{
+    position: sticky;
+    top: -4px;
+    background-color: black;
+    color: white;
+  }
+ 
+ .div-total{
+    width: 100%;
+    margin: auto;
+    margin-top: 3%;
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+ }
+
+ .div-tabela-info{
+    width: 40%;
+    text-align: center;
+    font-weight: bold;
+    font-size: 0.9rem;
+    height: 70px;
+    background-color: rgba(179, 179, 179, 0.42);
+
+ }
+
+.btn-finalizar{
+    margin-top: 2%;
+}
+
+.btn-inserir{
+    width: 100%;
+}

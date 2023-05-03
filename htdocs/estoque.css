@@ -1,0 +1,44 @@
+.menu-pesquisa{
+    background-color: antiquewhite;
+}
+
+.menu-pesquisa form{
+    display: flex;
+    width: 40vh;
+    float: right;
+    padding: 5px;
+}
+
+.menu-pesquisa form select{
+    width: 20vh;
+}
+
+.form-botao {
+    display: inline-block;
+}
+
+.div-tabela{
+    margin-top: 1%;
+    height: 80vh;
+    width: 100%;
+    overflow-y: auto;
+}
+
+
+thead{
+    position: sticky;
+    top: -1px;
+    z-index: 5;
+    background-color: black;
+    color: white;
+}
+
+
+.td-produto-linha{
+    display: flex;
+}
+
+.td-produto-linha button{
+    margin-left: 4px;
+}
+
